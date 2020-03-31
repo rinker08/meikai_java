@@ -1,3 +1,3 @@
-# Meikai_C
+# Meikai_Java
 
-新・解きながら学ぶC言語の問題置き場
+新・明解Java入門の問題置き場
